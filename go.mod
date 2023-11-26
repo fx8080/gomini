@@ -1,4 +1,4 @@
-module gomini
+module github.com/fx8080/gomini
 
 go 1.20
 
